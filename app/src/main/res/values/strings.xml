@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">a1lesson2</string>
+    <string name="send_date">send date</string>
+    <string name="input_text">Input text</string>
+    <string name="browser">browser</string>
+    <string name="camra">camra</string>
+    <string name="galereya">galereya</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="bottom">bottom</string>
+</resources>
